@@ -6,7 +6,7 @@ echo -e "
 #	Qual servidor deseja verificar?			#
 #							#
 #	##### SMTPS ##### 				#
-#	1) Server1	2) Server2	3) Server3 4) IASRV2	#
+#	1) Server1	2) Server2	3) Server3	# 
 #	0 --> SAIR					#
 #########################################################
 
